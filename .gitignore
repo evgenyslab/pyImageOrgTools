@@ -4,4 +4,4 @@
 .idea/*
 *.pyc
 .ipynb*
-*.*
+*.DS_*
